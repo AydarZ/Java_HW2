@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-06-24T20:17:06.750444600Z</date>
+  <millis>1687637826750</millis>
+  <nanos>444600</nanos>
+  <sequence>0</sequence>
+  <logger>HW2.hw2_2</logger>
+  <level>INFO</level>
+  <class>HW2.hw2_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>logg</message>
+</record>
+<record>
+  <date>2023-06-24T20:17:07.055817300Z</date>
+  <millis>1687637827055</millis>
+  <nanos>817300</nanos>
+  <sequence>1</sequence>
+  <logger>HW2.hw2_2</logger>
+  <level>INFO</level>
+  <class>HW2.hw2_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>logg</message>
+</record>
+<record>
+  <date>2023-06-24T20:17:07.105802800Z</date>
+  <millis>1687637827105</millis>
+  <nanos>802800</nanos>
+  <sequence>2</sequence>
+  <logger>HW2.hw2_2</logger>
+  <level>INFO</level>
+  <class>HW2.hw2_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>logg</message>
+</record>
+<record>
+  <date>2023-06-24T20:17:07.173819700Z</date>
+  <millis>1687637827173</millis>
+  <nanos>819700</nanos>
+  <sequence>3</sequence>
+  <logger>HW2.hw2_2</logger>
+  <level>INFO</level>
+  <class>HW2.hw2_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>logg</message>
+</record>
+<record>
+  <date>2023-06-24T20:17:07.343861300Z</date>
+  <millis>1687637827343</millis>
+  <nanos>861300</nanos>
+  <sequence>4</sequence>
+  <logger>HW2.hw2_2</logger>
+  <level>INFO</level>
+  <class>HW2.hw2_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>logg</message>
+</record>
+<record>
+  <date>2023-06-24T20:17:07.430884500Z</date>
+  <millis>1687637827430</millis>
+  <nanos>884500</nanos>
+  <sequence>5</sequence>
+  <logger>HW2.hw2_2</logger>
+  <level>INFO</level>
+  <class>HW2.hw2_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>logg</message>
+</record>
+<record>
+  <date>2023-06-24T20:17:07.544912300Z</date>
+  <millis>1687637827544</millis>
+  <nanos>912300</nanos>
+  <sequence>6</sequence>
+  <logger>HW2.hw2_2</logger>
+  <level>INFO</level>
+  <class>HW2.hw2_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>logg</message>
+</record>
+<record>
+  <date>2023-06-24T20:17:07.566918100Z</date>
+  <millis>1687637827566</millis>
+  <nanos>918100</nanos>
+  <sequence>7</sequence>
+  <logger>HW2.hw2_2</logger>
+  <level>INFO</level>
+  <class>HW2.hw2_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>logg</message>
+</record>
+<record>
+  <date>2023-06-24T20:17:07.610935100Z</date>
+  <millis>1687637827610</millis>
+  <nanos>935100</nanos>
+  <sequence>8</sequence>
+  <logger>HW2.hw2_2</logger>
+  <level>INFO</level>
+  <class>HW2.hw2_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>logg</message>
+</record>
+<record>
+  <date>2023-06-24T20:17:07.669949800Z</date>
+  <millis>1687637827669</millis>
+  <nanos>949800</nanos>
+  <sequence>9</sequence>
+  <logger>HW2.hw2_2</logger>
+  <level>INFO</level>
+  <class>HW2.hw2_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>logg</message>
+</record>
+<record>
+  <date>2023-06-24T20:17:07.741973300Z</date>
+  <millis>1687637827741</millis>
+  <nanos>973300</nanos>
+  <sequence>10</sequence>
+  <logger>HW2.hw2_2</logger>
+  <level>INFO</level>
+  <class>HW2.hw2_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>logg</message>
+</record>
+<record>
+  <date>2023-06-24T20:17:07.799977300Z</date>
+  <millis>1687637827799</millis>
+  <nanos>977300</nanos>
+  <sequence>11</sequence>
+  <logger>HW2.hw2_2</logger>
+  <level>INFO</level>
+  <class>HW2.hw2_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>logg</message>
+</record>
+<record>
+  <date>2023-06-24T20:17:07.858998300Z</date>
+  <millis>1687637827858</millis>
+  <nanos>998300</nanos>
+  <sequence>12</sequence>
+  <logger>HW2.hw2_2</logger>
+  <level>INFO</level>
+  <class>HW2.hw2_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>logg</message>
+</record>
+</log>
